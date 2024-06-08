@@ -4,7 +4,7 @@ export const Navbar = () => {
     const [active, setActive] = useState(false)
 
     return (
-        <nav className='navbar is-spaced'>
+        <nav className='navbar is-fixed-top is-spaced'>
             <div className="navbar-brand">
                 <a href="#" className="navbar-item">
                     <img src="/logo.png" alt="" />
