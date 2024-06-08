@@ -1,0 +1,20 @@
+.primary_fg {
+    color: #9DBBF8;
+}
+
+.primary_bg {
+    background-color: #9DBBF8;
+}
+
+.secondary_bg {
+    background-color: #F6F6F6;
+}
+
+.third_bg {
+    background-color: #3C3744 !important;
+}
+
+.underline:hover {
+    cursor: pointer;
+    text-decoration: underline !important;
+}
